@@ -30,7 +30,7 @@ p {
 
 .card{
   display: block;
-  width:250px;
+  width:270px;
   border-radius:0;
 }
 
@@ -51,8 +51,8 @@ p {
 
 
 .submit-color {
-  background-color: #DE660D;
-  color: white;
+  background-color: #17a2b8;/*問題ボタンの色を青に*/
+  color:white;
   opacity: 0.9;
   transition: all 0.4s;
   margin: 0 auto;
